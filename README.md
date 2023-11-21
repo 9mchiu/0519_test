@@ -1,2 +1,3 @@
-# 0519_test
-目前使用版本
+-- Arduino filename: 0519_test  
+-- 目前使用的版本  
+-- 使用移動平均(linear function)
